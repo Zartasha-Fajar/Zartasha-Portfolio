@@ -9,8 +9,8 @@ import {
 
 const experience = [
   {
-    duration: 'June 2024 – Current',
-    title: 'Customer Service Specialist, Mindbridge (Epay), Lahore',
+    duration: 'Dec 2023 - Mar 2025 – ',
+    title: 'Customer Service Specialist, Mindbridge (Epay , Bnak of London), Lahore',
     description:
       'Customer Service Rep experienced in resolving retailer concerns, handling sales/tech issues, training staff, and executing daily admin work. (on-site)',
   },
